@@ -1,0 +1,9 @@
+C:\Users\debonair\source\repos\AlvinKimata\Hello world from config file\obj\Debug\net472\Hello_world_from_config_file.csproj.AssemblyReference.cache
+C:\Users\debonair\source\repos\AlvinKimata\Hello world from config file\obj\Debug\net472\Hello_world_from_config_file.csproj.SuggestedBindingRedirects.cache
+C:\Users\debonair\source\repos\AlvinKimata\Hello world from config file\obj\Debug\net472\Hello_world_from_config_file.exe.config
+C:\Users\debonair\source\repos\AlvinKimata\Hello world from config file\obj\Debug\net472\Hello_world_from_config_file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\debonair\source\repos\AlvinKimata\Hello world from config file\obj\Debug\net472\Hello_world_from_config_file.AssemblyInfoInputs.cache
+C:\Users\debonair\source\repos\AlvinKimata\Hello world from config file\obj\Debug\net472\Hello_world_from_config_file.AssemblyInfo.cs
+C:\Users\debonair\source\repos\AlvinKimata\Hello world from config file\obj\Debug\net472\Hello_world_from_config_file.csproj.CoreCompileInputs.cache
+C:\Users\debonair\source\repos\AlvinKimata\Hello world from config file\obj\Debug\net472\Hello_world_from_config_file.RazorAssemblyInfo.cache
+C:\Users\debonair\source\repos\AlvinKimata\Hello world from config file\obj\Debug\net472\Hello_world_from_config_file.RazorAssemblyInfo.cs
